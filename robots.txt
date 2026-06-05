@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://wrenevens.github.io/sitemap.xml
+Sitemap: https://duyhieu.dev/sitemap.xml
